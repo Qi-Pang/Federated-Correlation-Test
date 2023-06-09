@@ -1,0 +1,7 @@
+numpy
+scipy
+kaggle
+pandas
+sklearn
+cython==0.29.20
+opencv-python==4.2.0.34

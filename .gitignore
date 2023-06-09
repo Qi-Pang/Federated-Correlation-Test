@@ -1,7 +1,11 @@
 # Byte-compiled / optimized / DLL files
+
+dataset/reuters21578/*
+
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 # C extensions
 *.so
